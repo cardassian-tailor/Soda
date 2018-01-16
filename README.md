@@ -9,6 +9,7 @@ We desire to create an citation and formating platform that has more flexability
 3. It is against the platform to penalize students for discretionary decisions. 
 4. The platform should be easy to use and understand
 5. The platform is always open to suggestions 
+6. The entire platform, not including examples, is seven pages or less. 
 
 
 ### Font Formatting 
